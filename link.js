@@ -8,12 +8,12 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_DIRECTLINK_ADS1",
-                            "#YOUR_DIRECTLINK_ADS2",
+                            "https://bangedavenge.com/xw8uh4j56?key=e09217a08ffa1bf731fa7fd389dcc874",
+                            
                         ]);
 
     var ars             = rChoice([
-                            "https://bangedavenge.com/xw8uh4j56?key=e09217a08ffa1bf731fa7fd389dcc874",
+                            "#aaa",
                           
                         ]);
 
