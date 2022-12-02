@@ -1,1 +1,0 @@
-<a title="Jual sepatu" href="https://shope.ee/8pCDgmcIj3" target="_blank"><img alt="Hanya dengan 50.000 dapat blog murah gratis Template Premium" src="https://cf.shopee.co.id/file/sg-11134201-22110-o2dy8lbqnxjvd1" width="300px" height="250px"/></a>
