@@ -21,8 +21,8 @@ var height1
 if (ad1==1) {
 link1="https://shope.ee/5KcLVMf4IX";
 adBanner1="https://blogger.googleusercontent.com/img/a/AVvXsEhkNxt7_8Nd52rXKNVcdpeRf7GtyyomRvhGRg-KVJWJiGxGF30qIIpssvI6qW6yS-EP-uVjplyX5Hx1cwfWtYzwyCwTOHCvt1Wms30-rOJ2W4H20u5E9vd92kEFpK8Rx6v4gj8xUzpNRhQ3-G3BnlrBOXP7GIAxLdP64VgRYuJWXpWHkV1Rh9i5JnXy=s16000";
-width1="640";
-height1="360";
+width1="300";
+height1="250";
 alt1="beli sepatu di shopee";
 }
 
